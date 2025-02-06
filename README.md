@@ -1,4 +1,3 @@
-```markdown
 # Navigate Connector
 
 `navigate-connector` is a Python package for interacting with the Navigate API and SFTP service. It provides methods for retrieving student data, appointments, notes, alerts, and more from the Navigate system using API requests and an SFTP client.
