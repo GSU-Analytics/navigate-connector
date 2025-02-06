@@ -1,0 +1,15 @@
+# conda env create -f environment.yml
+# conda activate navigate-connector
+
+
+name: navigate-connector
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - requests
+  - pandas
+  - keyring
+  - paramiko
+  - pip
